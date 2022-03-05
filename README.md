@@ -5,8 +5,8 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/riani-fitri-ibnul-malik-2994b51b6/">LinkedIn</a> 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianifitriim&layout=compact&count_private=true) ![rianifitriim's github stats]
-(https://github-readme-stats.vercel.app/api?username=rianifitriim&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianifitriim&layout=compact&count_private=true)
+![rianifitriim's github stats](https://github-readme-stats.vercel.app/api?username=rianifitriim&show_icons=true&count_private=true)
 
 
 <!--
